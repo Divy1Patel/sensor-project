@@ -18,4 +18,3 @@ setup(
     insatll_requirements=['requirements.txt'],
     packages=find_packages()
 )
-print("Hello, INitial changes for testing")
